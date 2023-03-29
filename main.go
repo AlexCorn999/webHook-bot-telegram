@@ -5,7 +5,7 @@ import (
 )
 
 var (
-	NewBot, BotErr := tgbotapi.NewBotAPI(betypes.BotToken)
+	NewBot, BotErr := tgbotapi.NewBotAPI(betypes.BOT_TOKEN)
 )
 
 func main() {
