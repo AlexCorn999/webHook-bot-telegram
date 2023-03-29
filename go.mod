@@ -1,4 +1,4 @@
-module webHook
+module git@github.com:AlexCorn999/webHook-bot-telegram.git
 
 go 1.19
 
