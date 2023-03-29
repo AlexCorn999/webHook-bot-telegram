@@ -1,6 +1,6 @@
 package betypes
 
 const (
-	CERT_PATH = "/certs/cert.crt"
-	KEY_PATH  = "/certs/cert.key"
+	CERT_PATH = "/home/work/webHook-bot-telegram/certs/cert.crt"
+	KEY_PATH  = "/home/work/webHook-bot-telegram/certs/cert.key"
 )
